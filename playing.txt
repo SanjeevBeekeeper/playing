@@ -5,3 +5,4 @@ Fourth line
 // Ghost branch
 Fifthline
 sixth line
+seventh line
