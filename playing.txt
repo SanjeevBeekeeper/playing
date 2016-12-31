@@ -2,3 +2,5 @@ This is my first line.
 Second line.
 Here's the third line.
 Fourth line
+// Ghost branch
+Fifthline
