@@ -1,7 +1,0 @@
-This is my first line.
-Second line.
-Second.line.second
-Here's the third line.
-Fourth line
-Fifth.line
-Sixth.line
